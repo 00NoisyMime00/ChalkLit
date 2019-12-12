@@ -1,0 +1,9 @@
+"Enter your question: Whats Projectile Motion?"
+Projectile motion 0.1334148140353017
+
+Motion 0.06067827282080853
+
+Question mark 0.009990648801306606
+Entity- projectile motion
+ 1. Projectile motion is one of the most common examples of motion in a plane. When an object moves in a circular path at a constant speed, then the object is said to be in a uniform circular motion.
+ 2. Equation of projectile motion. The general case of projectile motion corresponds to that of an object that has been given an initial velocity u at some angle 8 above (or below) the horizontal. The horizontal and vertical displacements x and y are given by

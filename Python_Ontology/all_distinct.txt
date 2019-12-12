@@ -1,0 +1,321 @@
+center of mass for particles
+center of mass
+torque
+angular momentum
+conditions for equilibrium
+moment of inertia
+parallel axis theorem
+perpendicular axis theorem
+conservation of angular momentum
+law of gravitation
+acceleration of gravity
+gravitational acceleration
+gravitational field
+gravitational potential
+gravitational potential energy
+escape velocity
+satellite
+orbit velocity
+global positioning satellites
+kepler's laws
+gravitational force
+height of projectile
+projectile
+range of projectile
+universal gravitation constant
+non-contact force
+elasticity
+plane mirrors
+concave mirrors
+convex mirrors
+convex lens
+reflection
+mirror
+plane mirror
+curved mirror
+image
+incident ray
+reflected ray
+normal
+diffused reflection
+regular reflection
+lens
+light
+virtual image
+real image
+concave
+convex mirror
+transformer
+flux leakage
+eddy currents
+hysteresis
+alternating current
+phasor diagram
+reactance
+impedance
+conductance
+power(ac)
+wattless current
+choke coil
+series resonant circuit
+half power frequency
+band width
+quality factor
+lc oscillations
+ac generator
+wave front
+phase speed
+ray
+huygens’ principle
+law of reflection
+doppler effect
+coherent source
+incoherent source
+young's experiment
+double slit experiment
+constructive interference
+destructive interference
+interference
+diffraction
+single slit
+maxima
+minima
+polariser
+optical activity
+polarisation
+brewster's law
+scaterring
+amplitude
+phase
+wavelength
+time period
+frequency
+spherical wavefront
+plane wavefront
+cylindrical wavefront
+huygen's principle
+snells' law
+prism
+concave mirror
+doppler's effect
+coherent
+incoherent sources
+superposition
+ydse
+bright bands
+dark bands
+fringe width
+sustained interference
+conservation of energy
+resolving power
+magnification
+resolving power of telescope
+resolving power of microscope
+polarized
+unpolarised wave
+methods of polarisation
+polaroid
+malus' law
+polaroids
+polarization
+electromagnetic waves
+oscillation
+electromagnetic spectrum
+regions of spectrum
+radio waves
+microwave
+infrared waves
+visible light
+ultraviolet light
+x-rays
+gamma rays
+displacement current
+maxwell's equations
+microwaves
+visible rays
+ultraviolet rays
+laws of reflection
+plane mirror image
+spherical mirror
+sign convention
+principal axis of the mirror
+refraction
+laws of refraction
+refractive index
+critical angle
+total internal reflection
+apparent depth of a liquid
+normal shift
+focal length
+angle of deviation
+dispersion
+spectrum
+angular dispersion
+dispersive power
+optical instrument
+human eye
+microscope
+telescope
+mirror formula
+tir
+transparent medium
+translucent medium
+opaque
+radius of curvature
+principal focus
+focal plane
+refracted ray
+converging  lens
+diverging lens
+centre of curvature
+lens formula
+linear magnification
+double concave lens
+power of lens
+cauchy's formula
+deviation
+concave lens
+magnifying power
+scalar quantities
+vector quantities
+projectile motion
+circular motion
+force
+first law of motion
+second law of motion
+thrid law of motion
+momentum
+macroscopic
+microscopic
+gravity
+electromagnetism
+weak nuclear force
+conserved quantities
+physics and maths
+physics and astronomy
+physics and biology
+fundamental forces
+fundamental laws
+base units
+precision
+fundamental physical quantity
+derived physical units
+system of units
+supplementary units
+vectors
+inertia
+pseudo forces
+2nd law of motion
+3rd law of motion
+linear momentum
+tension
+limiting frictional force
+looping the loop
+source
+work
+kinetic energy
+potential energy
+mechanical energy
+constant
+displacement
+power
+elastic collision
+inelastic collision
+reflection and refraction of light
+lenses
+rainbows
+magnetic field sources
+electric current
+fuse
+power supplies
+electromagnetic force
+electric circuits
+magnetic field
+batteries
+myopia
+astigmatism
+retina
+speed
+scalar quantity
+velocity
+motion
+average speed
+average velocity
+acceleration
+graph
+curved motion
+relative motion
+distance
+newton's laws of motion
+2nd equation of motion
+1st equation of motion
+instantaneous acceleration
+forces in circular motion
+newton's first law
+frictional force
+newton's second law
+newton's third law
+conservation of momentum
+impulse
+periodic motion
+time
+units
+pressure
+atmospheric pressure
+magnetic force
+electrostatic force
+area
+contact force
+friction
+static friction
+fluid friction
+frictionla force
+kinetic friction
+sound
+pendulum
+pendulum period
+pendulum motion
+sound loudness
+sound pitch
+timbre
+sound and hearing
+hearing
+echoes
+musical instrument
+strings instruments
+air coloumns instruments
+sound propogation
+oscillator
+sound measurement
+sound intensity
+human ear
+strings instrument
+waves
+synthesis of sounds
+cochlea
+types of hearing loss
+vocal resonance
+sound in gases
+sound in liquids
+sound in solids
+dangers of loud sound
+humna ear
+conductors
+led
+electromagnetic field
+chemical conductance
+fluid conductance
+pinna
+auditory canal
+tympanic membrane
+speed of sound
+sound reflection
+reverberation
+propogation of light
+light and vision
+images
+electricity and magnetism
+magnetic properties
+permanent magnet
+bar magnet
+
